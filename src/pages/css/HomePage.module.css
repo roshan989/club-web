@@ -1,0 +1,15 @@
+.bd{
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+}
+#id1{
+    color:red;
+}
+p{
+     text-align:left;
+    font-size: 1.5rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+}

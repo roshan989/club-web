@@ -1,0 +1,39 @@
+.card {
+  background-color: #DAD0C2;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  opacity: 0.8;
+}
+form {
+  padding: 1rem;
+  border: 2px;
+  border-color: brown;
+ 
+}
+form label {
+  margin-left: 2px;
+  color: black;
+  font-size: 1rem;
+}
+form input,form textarea {
+  display: block;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  padding: 0.25rem;
+  width: 100%;
+}
+button {
+  font: inherit;
+  cursor: pointer;
+  background-color: #BD4B4B;
+  color: black ;
+  padding: 0.5rem 1.5rem;
+  border: 1px solid white;
+  border-radius: 4px;
+  font-weight: bold;
+  font-style: italic;
+}
+button:active,button:hover{
+  color:white;
+}
+

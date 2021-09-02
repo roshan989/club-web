@@ -1,0 +1,12 @@
+.image {
+    border-image: auto;  
+    align-items: center;
+}
+.aboutP {
+    margin-top: 4px;
+  text-align: center;
+  font-size: 2rem;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: italic;
+  
+}
